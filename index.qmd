@@ -1,5 +1,5 @@
 ---
-title: "whatthehell"
+title: "Omur Ugur, PhD"
 ---
 
 This is a Quarto website.
