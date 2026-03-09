@@ -1,5 +1,5 @@
 ---
-title: "Omur Ugur, PhD"
+title: "Ömür Uğur, PhD"
 ---
 
 This is a Quarto website.
