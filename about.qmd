@@ -1,5 +1,53 @@
 ---
-title: "About"
+title: Ömür Uğur
+email: ougur@metu.edu.tr
+image: images/photos/omur-ugur.png
+groups: [Computational Finance, 
+         Data Analysis,
+         Differential Equations,
+         Optimisation and Control,]
+projects: [Data-Driven and Physics-Informed Models,
+           Dynamical Systems and Control,
+           Portfolio Optimisation and Management,
+           Surrogate Models and Optimisation,]
+           # Newton’s Second Law of Motion; Compartmental Models of Epidemiology; Controlling the Trajectory of a Motion; Equations of Mathematical Physics; Synthetic Market Data Generation and Simulation; Mean-Variance Portfolio Optimisation; Option (Derivative) Pricing; Stochastic Differential Equations (with Jump Processes); General-Purpose Data-Fitted Surrogate Models; Linear and Nonlinear Time-Series Models]
+about:
+  template: trestles
+# jolla
+# trestles 
+# solana
+# marquee X
+# broadside
+  #image: photos/omur-ugur.png
+  links:
+    - icon: house
+      text: Home
+      href: https://ougur.iam.metu.edu.tr
+      target: "_blank"
+    - icon: envelope
+      text: E-Mail
+      href: mailto:ougur@metu.edu.tr
+    - icon: cup-fill
+      text: Gitea
+      href: https://ougur.iam.metu.edu.tr/gitea/ougur
+    - icon: github
+      text: GitHub
+      href: https://github.com/ougur-phd
+status: active
 ---
 
-About this site
+I was born in Istanbul in 1971. I graduated from the [Department of Mathematics][MATH]{target="_blank"}, [Middle East Technical University][METU]{target="_blank"} (METU) and took my BS degree in 1995. 
+
+I received my MSc degree in Mathematics in 1998, with a thesis entitled "[Hypervirial Analysis of Enclosed Quantum Mechanical Systems][ouMSc]{target="_blank"}", and my PhD degree in Mathematics, with a thesis entitled "[Boundary Value Problems for Higher Order Linear Impulsive Differential Equations][ouPhD]{target="_blank"}", in 2003.
+
+Presently, I am a member of the faculty at the [Institute of Applied Mathematics][IAM]{target="_blank"}, [Middle East Technical University][METU]{target="_blank"}.
+
+My Academic Homepage is located at [ougur.iam.metu.edu.tr][OUGUR]{target="_blank"}.
+
+
+[OUGUR]: https://ougur.iam.metu.edu.tr
+[MATH]: https://math.metu.edu.tr
+[IAM]: https://iam.metu.edu.tr
+[METU]: https://metu.edu.tr
+[ouMSc]: https://ougur.iam.metu.edu.tr/publications/theses/hypervirial-analysis-of-enclosed-quantum-mechanical-systems
+[ouPhD]: https://ougur.iam.metu.edu.tr/publications/theses/boundary-value-problems-for-higher-order-linear-impulsive-differential-equations

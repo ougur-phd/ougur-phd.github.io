@@ -1,7 +1,21 @@
 ---
 title: "Ömür Uğur, PhD"
+image: images/photos/omur-ugur.png
 ---
 
-This is a Quarto website.
+I was born in Istanbul in 1971. I graduated from the [Department of Mathematics][MATH]{target="_blank"}, [Middle East Technical University][METU]{target="_blank"} (METU) and took my BS degree in 1995. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I received my MSc degree in Mathematics in 1998, with a thesis entitled "[Hypervirial Analysis of Enclosed Quantum Mechanical Systems][ouMSc]{target="_blank"}", and my PhD degree in Mathematics, with a thesis entitled "[Boundary Value Problems for Higher Order Linear Impulsive Differential Equations][ouPhD]{target="_blank"}", in 2003.
+
+Presently, I am a member of the faculty at the [Institute of Applied Mathematics][IAM]{target="_blank"}, [Middle East Technical University][METU]{target="_blank"}.
+
+My Academic Homepage is located at [ougur.iam.metu.edu.tr][OUGUR]{target="_blank"}.
+
+
+[OUGUR]: https://ougur.iam.metu.edu.tr
+[MATH]: https://math.metu.edu.tr
+[IAM]: https://iam.metu.edu.tr
+[METU]: https://metu.edu.tr
+[ouMSc]: https://ougur.iam.metu.edu.tr/publications/theses/hypervirial-analysis-of-enclosed-quantum-mechanical-systems
+[ouPhD]: https://ougur.iam.metu.edu.tr/publications/theses/boundary-value-problems-for-higher-order-linear-impulsive-differential-equations
+

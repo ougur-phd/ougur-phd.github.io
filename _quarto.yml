@@ -3,18 +3,24 @@ project:
 
 website:
   title: "Ömür Uğur, PhD"
+
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      # - href: index.qmd
+      #   text: Home
+      - href: about.qmd
+        text: About Me
+      - icon: github
+        # text: GitHub
+        href: https://github.com/ougur-phd
+        target: "_blank"
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
-    css: styles.css
+    theme: 
+      dark: [united, united-dark.scss]
+      light: united
+#    css: united-dark.css
     toc: true
 
 
